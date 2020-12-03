@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="周哥牛逼"/>
+    <HelloWorld msg="干饭人 干饭魂 干饭的驰哥最迷人"/>
   </div>
 </template>
 
