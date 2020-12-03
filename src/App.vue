@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="测试master"/>
+    <HelloWorld msg="测试master分支"/>
   </div>
 </template>
 
